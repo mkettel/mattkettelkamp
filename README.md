@@ -9,3 +9,5 @@ Howdy, my name is Matt Kettekamp. I am a fullstack developer who loves coding an
   · You can reach me at: <br>
   
       - mattkettelkamp@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
